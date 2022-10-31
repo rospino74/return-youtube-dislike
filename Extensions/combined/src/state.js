@@ -148,13 +148,6 @@ function setDislikes(dislikesCount) {
     getDislikeTextContainer().innerText = dislikesCount;
   } else {
     cLog("likes count disabled by creator");
-    if (isMobile()) {
-      getButtons().children[1].querySelector(
-        ".button-renderer-text"
-      ).innerText = localize("TextLikesDisabled");
-      return;
-    }
-    getDislikeTextContainer().innerText = localize("TextLikesDisabled");
   }
 }
 
