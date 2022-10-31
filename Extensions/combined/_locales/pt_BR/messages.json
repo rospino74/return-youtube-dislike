@@ -29,9 +29,6 @@
   "textSettings": {
     "message": "Desativar envio de Curtidas/Não Curtidas"
   },
-  "textLikesDisabled": {
-    "message": "Desativado pelo proprietário"
-  },
   "textSettingsHover": {
     "message": "Parar de contar suas curtidas e não curtidas."
   },

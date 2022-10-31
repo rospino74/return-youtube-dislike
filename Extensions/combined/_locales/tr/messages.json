@@ -32,9 +32,6 @@
   "textSettings": {
     "message": "Like/dislike gönderimini devre dışı bırak"
   },
-  "textLikesDisabled": {
-    "message": "Sahibi tarafından devre dışı bırakıldı"
-  },
   "textSettingsHover": {
     "message": "Like ve dislike'larınızı saymayı bırakır."
   },

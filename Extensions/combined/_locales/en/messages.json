@@ -32,9 +32,6 @@
   "textSettings": {
     "message": "Disable like/dislike submission"
   },
-  "textLikesDisabled": {
-    "message": "Disabled by Owner"
-  },
   "textSettingsHover": {
     "message": "Stops counting your likes and dislikes."
   },

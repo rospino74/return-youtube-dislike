@@ -29,9 +29,6 @@
   "textSettings": {
     "message": "高評価/低評価を表示しない"
   },
-  "textLikesDisabled": {
-    "message": "投稿者により無効化"
-  },
   "textSettingsHover": {
     "message": "評価数のカウントを停止します。"
   },

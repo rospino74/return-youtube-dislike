@@ -29,9 +29,6 @@
   "textSettings": {
     "message": "Zakázat odesílání like/dislike"
   },
-  "textLikesDisabled": {
-    "message": "zakázáno majitelem"
-  },
   "textSettingsHover": {
     "message": "Zastaví počítání vašich liků a disliků."
   },

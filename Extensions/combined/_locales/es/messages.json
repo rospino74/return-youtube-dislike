@@ -32,9 +32,6 @@
   "textSettings": {
     "message": "Desactivar envío de votos"
   },
-  "textLikesDisabled": {
-    "message": "desactivado por el propietario"
-  },
   "textSettingsHover": {
     "message": "Deja de contar tus «Me gusta» y «No me gusta»."
   },
